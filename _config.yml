@@ -8,11 +8,11 @@ url:              http://robert.libotti.com.br
 owner:
   name:           Robert V. Libotti
   avatar:         bio-photo.jpg
-  bio:            "Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy."
+  bio:            "Robert Libotti is a Full Stack / C# Developer Analyst with 20+ years of experience. Postgraduated: Cloud Computing (IGTI) and AI Applied to Military Systems (FGV). Focus on Web technologies: Azure, AWS, .Net (Full Framework and .NET Core), Typescript (Node.js, Angular, React Js), Bootstrap, WebAPI, Swagger, MVC, Webforms, SQLServer, Oracle, Postgres, MySQL, Dapper, ADO.Net, Entity Framework, Aspnet Zero Framework, Hangfire, Docker, Nginx, etc. AWS and Microsoft Certified."
   email:          robert.libotti@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        libotti
+  twitter:        
   facebook:       
   github:         libotti
   linkedin:       libotti
@@ -38,13 +38,11 @@ links:
     url: /about/
   - title: Articles
     url: /articles/
-  - title: Setup
-    url: /theme-setup/
-  - title: T-Details
-    url: /technical-details/
-  - title: The Evil-Genius
-    url: http://www.theevilgenius.tk/
-    external: true
+#  - title: Setup
+#    url: /theme-setup/
+#  - title: T-Details
+#    url: /technical-details/
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
