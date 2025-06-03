@@ -16,4 +16,4 @@ My name is **Robert V. Libotti**, I am Full Stack / C# Developer Analyst with 20
 ---
 I currently live in Rio de Janeiro, Brazil, and I´m studying topics related to computer vision, AI, and machine learning.
 
-[![AWS](images/image-aws.png)](https://www.credly.com/badges/badb594f-7f77-4478-9280-a90a46613dc3) [![AZURE](images/image-azure.png)](https://www.credly.com/badges/2ec8e2cf-7986-411d-9ee9-f8e2abc4922c) [![SCRUM](images/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](https://www.credly.com/badges/2a04c45c-bf72-4d27-b563-e8cc49451763) [![LIFELONG LEARNING](images/CertiProf-Badge-LLL.png)](https://www.credly.com/badges/707fa40c-0088-476e-8e98-363d1a325c60)
+[![AWS](/images/image-aws.png)](https://www.credly.com/badges/badb594f-7f77-4478-9280-a90a46613dc3) [![AZURE](/images/image-azure.png)](https://www.credly.com/badges/2ec8e2cf-7986-411d-9ee9-f8e2abc4922c) [![SCRUM](/images/Scrum-Foundation-Professional-Certificate-SFPC-2021_.png)](https://www.credly.com/badges/2a04c45c-bf72-4d27-b563-e8cc49451763) [![LIFELONG LEARNING](/images/CertiProf-Badge-LLL.png)](https://www.credly.com/badges/707fa40c-0088-476e-8e98-363d1a325c60)
