@@ -12,11 +12,15 @@ Jekyll é uma Ruby GEM, entao...
 
 4) gem update
 
-5) gem install jekyll bundler
+5) gem install jekyll bundler base64 logger
 
 6) verificar o jekyl com "jekyll -v"
 
-7) siga https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
+7) para instalar todas as dependencias (no Gemfile), use:
+   bundle install
+
+8) sobre usar o github pages, veja: 
+   https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll
 
 8) testando localmente
    https://docs.github.com/pt/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll

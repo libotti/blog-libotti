@@ -47,7 +47,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/Sao_Paulo
 future:      true
-pygments:    true
+highlighter: rouge
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
@@ -58,7 +58,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
   coderay:
     coderay_line_numbers: 
